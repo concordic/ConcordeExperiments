@@ -1,6 +1,6 @@
 # Concord
 
-This repo will contain various experiments and proofs of concepts. Please see branches for specific experiments.
+This branch will contain a Vulkan-based proof of concept for interfacing with a GPU.
 
 ## Tasks and Management
 
